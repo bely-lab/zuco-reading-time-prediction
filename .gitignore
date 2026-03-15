@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.mat
+data/
+.env
+.venv
+Matlabfiles.zip
+outputs/
