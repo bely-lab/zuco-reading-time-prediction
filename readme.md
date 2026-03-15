@@ -56,8 +56,6 @@ Metrics:
 
 Sentence length accounts for most predictive power, while contextual embeddings did not outperform simpler structural features for sentence-level TRT prediction.
 
-## Project Structure
-
 
 ## References
 
