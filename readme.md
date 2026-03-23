@@ -1,6 +1,6 @@
 # Predicting Sentence-Level Reading Time from Text
 
-This project investigates whether sentence-level reading time can be predicted from textual features. The study uses eye-tracking data from the Zurich Cognitive Language Processing Corpus (ZuCo).
+This NLP project investigates whether sentence-level reading time can be predicted from textual features. The study uses eye-tracking data from the Zurich Cognitive Language Processing Corpus (ZuCo).
 
 The goal is to compare different sentence representations and evaluate how well they predict mean sentence-level Total Reading Time (TRT).
 
